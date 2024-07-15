@@ -5,6 +5,6 @@
 | sorted         | O(n log n) |    Yes    |   0.00066              |    0.00176                |
 | sort           | O(n log n) |    Yes    |   0.00081              |    0.00151                |
 
-Compared to merge sort and insertion sort, built-in functions sorted and sort (Timsort) are faster and easy to use. 
+Compared to merge sort and insertion sort, built-in functions sorted and sort (Timsort algorithm) are faster and easier to use.  
 
 ![image](https://github.com/user-attachments/assets/464a3b83-e3b9-41a9-b308-00fb11ad9f38)
